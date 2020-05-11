@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request" : {
+    "method": "GET",
+    "url": "/get-this"
+  },
+  "response": {
+    "status": 200,
+    "headers" : {
+      "content-type": "application/json"
+    },
+    "bodyFileName": "TestResponseViaGet.txt"
+  }
+}
